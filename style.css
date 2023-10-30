@@ -133,7 +133,7 @@ section {
 }
 
 img {
-    max-width: 100%;
+    width: auto;
     height: auto;
     margin-top: 20px;
 }
